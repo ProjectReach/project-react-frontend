@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "testimonial": "Since the farm arrived, we can eat fresh lettuce every week!",
+    "photoUrl": "https://placehold.co/300"
+  },
+  {
+    "id": "2",
+    "testimonial": "My kids have more vegetables than ever before.",
+    "photoUrl": "https://placehold.co/300"
+  }, 
+  {
+    "id": "3",
+    "testimonial": "The farm is a great way to teach my children about healthy eating.",
+    "photoUrl": "https://placehold.co/300"
+  },
+  {
+    "id": "4",
+    "testimonial": "I love the convenience of having fresh produce at my doorstep.",
+    "photoUrl": "https://placehold.co/300"
+  },
+  {
+    "id": "5",
+    "testimonial": "The farm has made a big difference in our family's diet.",
+    "photoUrl": "https://placehold.co/300"
+  },
+
+  {
+    "id": "6",
+    "testimonial": "I never knew how easy it could be to grow my own food.",
+    "photoUrl": "https://placehold.co/300"
+  },
+  {
+    "id": "7",
+    "testimonial": "The farm has brought our community closer together.",
+    "photoUrl": "https://placehold.co/300"
+  },
+  {
+    "id": "8",
+    "testimonial": "I love sharing the harvest with my neighbors.",
+    "photoUrl": "https://placehold.co/300"
+  }
+]

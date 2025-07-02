@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* for Leaflet default marker icons */
+@import "leaflet/dist/leaflet.css";

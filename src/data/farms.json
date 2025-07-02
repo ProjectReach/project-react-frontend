@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Chicago Container Farm",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "description": "Serving Chicago communities with fresh greens"
+  },
+  {
+    "id": "2",
+    "name": "New York Urban Farm",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "description": "Improving food security in NYC"
+  },
+  {
+    "id": "3",
+    "name": "Kigali Container Farm",
+    "lat": -1.9441,
+    "lng": 30.0619,
+    "description": "Providing fresh food in Kigali"
+  },
+  {
+    "id": "4",
+    "name": "Musanze Local Farm",
+    "lat": -1.5,
+    "lng": 29.6,
+    "description": "Boosting nutrition in Musanze District"
+  }
+]
