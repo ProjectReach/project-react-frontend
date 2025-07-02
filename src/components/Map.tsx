@@ -1,8 +1,11 @@
+"use client";
+
+import dynamic from "next/dynamic";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
 
-import farms from "@/data/farms.json" assert { type: "json" };
+import farms from "@/data/farms.json";
 
 
 // fix default marker issue
